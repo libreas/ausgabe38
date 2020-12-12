@@ -1,0 +1,2 @@
+---
+**Yuliya Fadeeva**, Dr. phil., arbeitet im Open-Access-Bereich der Universitätsbibliothek Duisburg-Essen. Sie war am Abschluss des OGeSoMo-Projektes beteiligt, insbesondere an der Erstellung des Sammelbandes.
