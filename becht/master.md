@@ -339,7 +339,7 @@ Pressemitteilung der Stiftung Kloster Eberbach: Klösterliche
 Schafhaltung im Kloster Eberbach. Stiftung veranschaulicht grundlegenden
 Bewirtschaftungsansatz der Zisterzienser. Erfolgreiche Kooperation mit
 Kiedricher Schafzüchter, Eberbach 2016
-<https://kloster-eberbach.de/fileadmin/media/stiftung/Pressemitteilungen/20160322\_PM\_StiftungKlosterEberbach\_Kl%C3%B6sterliche-Schafhaltung.pdf>
+<https://kloster-eberbach.de/fileadmin/media/stiftung/Pressemitteilungen/20160322_PM_StiftungKlosterEberbach_Kl%C3%B6sterliche-Schafhaltung.pdf>
 (14.07.2020).
 
 **FAO 2019**
