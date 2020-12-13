@@ -1,0 +1,3 @@
+---
+**Michael Becht**:
+Magister in Klassischer Archäologie, Alte Geschichte und Kunstgeschichte (2012), danach mehrere Jahre auf archäologischen Grabungen hauptsächlich in Bayern tätig, zuletzt als Wissenschaftlicher Grabungsleiter (bis 2019). Seit 2019 Studium Bibliotheks- und Informationsmanagement an der Hochschule für den öffentlichen Dienst in Bayern; schreibt aktiv für den Blog auf aubib.de.

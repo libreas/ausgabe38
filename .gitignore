@@ -5,3 +5,5 @@
 *.bak
 *.DS_Store
 *.toc
+*.py
+*.xlsx
