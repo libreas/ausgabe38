@@ -1,0 +1,2 @@
+---
+**Franziska Corradini** ist gelehrte Fachfrau Information und Dokumentation. Im Herbst hat sie das Studium Informationswissenschaft an der Fachhochschule Graubünden abgeschlossen. Sie arbeitet in der Mediothek IWM der PHBern in den Bereichen Kundendienst, Schulungen und Ausstellungen.
