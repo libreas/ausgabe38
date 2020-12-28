@@ -9,5 +9,4 @@ Bibliothek Münstergasse
 Universitätsbibliothek Bern
 Münstergasse 61 / Postfach
 CH-3000 Bern 8
-andrea.bhend@ub.unibe.ch
-www.unibe.ch
+<https://www.unibe.ch> | <andrea.bhend@ub.unibe.ch>
