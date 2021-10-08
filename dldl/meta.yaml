@@ -8,7 +8,8 @@ year: "2020"
 contributor: 
 - "Redaktion LIBREAS"
 title: "Das liest die LIBREAS, Nummer #7 (Herbst / Winter 2020)"
-pdf: master.pdf
+pdf: "https://doi.org/10.18452/23482"
+doi: "10.18452/23482"
 date: 2020-12-23
 comments: false
 sharing: true

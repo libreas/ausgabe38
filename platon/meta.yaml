@@ -8,7 +8,8 @@ year: "2020"
 contributor: 
 - "Marjorie Platon"
 title: "Farewell Gundula! Obituary to our library plant!"
-pdf: master.pdf
+pdf: "https://doi.org/10.18452/23472"
+doi: "10.18452/23472"
 date: 2020-12-20
 comments: false
 sharing: true

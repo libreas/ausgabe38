@@ -8,7 +8,8 @@ year: "2020"
 contributor: 
 - "Franziska Corradini"
 title: "Einfluss der Agenda 2030 auf die deutschsprachige Bibliothekswelt"
-pdf: master.pdf
+pdf: "https://doi.org/10.18452/23476"
+doi: "10.18452/23476"
 date: 2020-12-20
 comments: false
 sharing: true
