@@ -1,2 +1,2 @@
 ---
-**Wolfgang Kaiser**, \*1981, Diplom-Bibliothekar, zuletzt seit 2018 im Sozialen Beratungsdienst in einem städtischen Notunterkunftsheim für Wohnungslose in München tätig, aktuell Master Soziale Arbeit (cand.) KSH München. Kontakt: wolfgang_kaiser@ymail.com
+**Wolfgang Kaiser**, \*1981, Diplom-Bibliothekar, zuletzt seit 2018 im Sozialen Beratungsdienst in einem städtischen  Notunterkunftsheim für Wohnungslose in München tätig, aktuell Master Soziale Arbeit (cand.) KSH München. Kontakt: <wolfgang_kaiser@ymail.com>
